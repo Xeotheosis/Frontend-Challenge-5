@@ -76,7 +76,9 @@ button{
     border-radius: 1rem;
     margin-bottom:0.5rem;
 }
-
+button:hover{
+background-color:hsl(158, 36%, 17%);
+}
 #prices{
     display:flex;
     align-items: center;
